@@ -4,7 +4,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/julianosfreitas)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
-![Juliano GitHub stats](https://github-readme-stats.vercel.app/api?username=julianosfreitas&show_icons=true&theme=tokyonight)
+<div>
+    <a hef="https://github.com/julianosfreitas">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianosfreitas&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosfreitas&layout=compact&langs_count=16&theme=midnight-purple"/>
+</div>
 
 ## Tecnologias
 
