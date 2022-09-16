@@ -1,11 +1,17 @@
-### Opa, Juliano aqui! ✌️
-
+## Opa, Juliano aqui! ✌️
 <br>
 
-!["Gif"](https://github.com/julianosfreitas/projeto-git/blob/master/gifum.gif)
-!["Gif"](https://github.com/julianosfreitas/projeto-git/blob/master/giphy.gif)
-!["Gif"](https://github.com/julianosfreitas/projeto-git/blob/master/ggi.gif)
-!["Gif"](https://github.com/julianosfreitas/projeto-git/blob/master/jjshvn.gif)
+### 🏎️ On a Mission 
+
+
+
+<br>
+<div style="display: inline_block">
+<img src="https://github.com/julianosfreitas/projeto-git/blob/master/gifum.gif" aling="center" alt="Driver" width="200"/>
+<img src="https://github.com/julianosfreitas/projeto-git/blob/master/giphy.gif" aling="center" alt="Music" width="200"/>
+<img src="https://github.com/julianosfreitas/projeto-git/blob/master/ggi.gif" aling="center" alt="Road" width="200"/>
+<img src="https://github.com/julianosfreitas/projeto-git/blob/master/jjshvn.gif" aling="center" alt="Jesus" width="200"/>
+</div>
 
 <div>
     <a hef="https://github.com/julianosfreitas">
@@ -13,10 +19,10 @@
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosfreitas&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
-## Tecnologias
+## ⚙️ Tecnologias
 
 <div style="display: inline_block"><br/>
-    <img aliGN="center" alt="html5" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="html5" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="css3" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" alt="python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
