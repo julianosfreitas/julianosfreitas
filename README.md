@@ -2,7 +2,10 @@
 
 <br>
 
-!["Gif"](https://github.com/julianosfreitas/projeto-git/ggi.gif)
+!["Gif"](https://github.com/julianosfreitas/projeto-git/blob/master/gifum.gif)
+!["Gif"](https://github.com/julianosfreitas/projeto-git/blob/master/giphy.gif)
+!["Gif"](https://github.com/julianosfreitas/projeto-git/blob/master/ggi.gif)
+!["Gif"](https://github.com/julianosfreitas/projeto-git/blob/master/jjshvn.gif)
 
 <div>
     <a hef="https://github.com/julianosfreitas">
