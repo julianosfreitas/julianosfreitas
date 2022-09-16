@@ -3,8 +3,6 @@
 
 ### 🏎️ On a Mission 
 
-
-
 <br>
 <div style="display: inline_block">
 <img src="https://github.com/julianosfreitas/projeto-git/blob/master/gifum.gif" aling="center" alt="Driver" width="200"/>
@@ -12,6 +10,8 @@
 <img src="https://github.com/julianosfreitas/projeto-git/blob/master/ggi.gif" aling="center" alt="Road" width="200"/>
 <img src="https://github.com/julianosfreitas/projeto-git/blob/master/jjshvn.gif" aling="center" alt="Jesus" width="200"/>
 </div>
+
+<br>
 
 <div>
     <a hef="https://github.com/julianosfreitas">
