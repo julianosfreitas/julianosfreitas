@@ -1,4 +1,4 @@
-### Olá! Eu sou o Juliano Freitas ✌️
+### Opa, Juliano aqui! ✌️
 
 <div style="display: inline_block">
 <img aling="center" alt="Gif_um" scr="https://media.discordapp.net/attachments/1019955603281547335/1020125804358795314/gifum.gif">
