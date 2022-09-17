@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7600a9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Juliano+Freitas+Here!;I'm+23+years+old;I'am+from+Recife,+PE;Studing+Computer+Science+at+Nova+Roma)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7600a9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Juliano+Freitas+Here!;I'm+23+years+old;I'am+from+Recife,+PE;Studing+Computer+Science+at+Nova+Roma)](https://git.io/typing-svg)
 <br>
 
 ### ON A MISSION 🏎️
@@ -21,7 +21,7 @@
     <img heigth="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosfreitas&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
     
-### SKILLS ⚙️
+### SKILLS 🔬
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -39,3 +39,5 @@
 <br>
 
 ![Snake animation](https://github.com/julianosfreitas/julianosfreitas/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7600a9&height=120&section=footer"/>
