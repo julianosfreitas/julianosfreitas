@@ -1,25 +1,26 @@
-## Opa, Juliano aqui! ✌️
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Juliano+Freitas+Here!;I'm+23+years+old;I'am+from+Recife,+PE;I+study+Computer+Science+at+Nova+Roma)](https://git.io/typing-svg)
+
 <br>
 
-### 🏎️ On a Mission 
+<h3 align="center"> ON A MISSION 🏎️  </h3>
 
 <br>
 <div style="display: inline_block">
-<img src="https://github.com/julianosfreitas/projeto-git/blob/master/gifum.gif" aling="center" alt="Driver" width="200"/>
-<img src="https://github.com/julianosfreitas/projeto-git/blob/master/giphy.gif" aling="center" alt="Music" width="200"/>
-<img src="https://github.com/julianosfreitas/projeto-git/blob/master/ggi.gif" aling="center" alt="Road" width="200"/>
-<img src="https://github.com/julianosfreitas/projeto-git/blob/master/jjshvn.gif" aling="center" alt="Jesus" width="200"/>
+<img src="https://github.com/julianosfreitas/projeto-git/blob/master/gifum.gif" aling="center" alt="Driver" width="230"/>
+<img src="https://github.com/julianosfreitas/projeto-git/blob/master/giphy.gif" aling="center" alt="Music" width="230"/>
+<img src="https://github.com/julianosfreitas/projeto-git/blob/master/ggi.gif" aling="center" alt="Road" width="230"/>
+<img src="https://github.com/julianosfreitas/projeto-git/blob/master/jjshvn.gif" aling="center" alt="Jesus" width="230"/>
 </div>
 
 <br>
-
+<h3 align="center"> STATS 📈 </h3> 
 <div>
     <a hef="https://github.com/julianosfreitas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianosfreitas&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosfreitas&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
-## ⚙️ Tecnologias
+<h3 align="center"> SKILLS ⚙️ </h3>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
