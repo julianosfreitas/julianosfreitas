@@ -17,8 +17,8 @@
 
 <div>
     <a hef="https://github.com/julianosfreitas">
-    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=julianosfreitas&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
-    <img align"center" heigth="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosfreitas&layout=compact&langs_count=16&theme=midnight-purple"/>
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=julianosfreitas&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"/>
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosfreitas&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
 </div>
     
 ### SKILLS 🔬
