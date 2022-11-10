@@ -21,11 +21,13 @@
     <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosfreitas&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
 </div>
  
-### LEARNING 
+### LEARNING 📒
 
 <div style="display: inline_block">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-</div
+      <img align="center" alt="html5" heigth="30" width="40" src=https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor />
+
+</div>
+<br>
     
 ### SKILLS 🔬
     
