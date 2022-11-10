@@ -37,6 +37,7 @@
     <img align="center" alt="css3" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" alt="sql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
     <img align="center" alt="java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img align="center" alt="java" heigth="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
 </div>
 <br>
     
