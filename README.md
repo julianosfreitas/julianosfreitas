@@ -20,7 +20,9 @@
     <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=julianosfreitas&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"/>
     <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosfreitas&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
 </div>
- 
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+    
 ### LEARNING 📒
 
 <div style="display: inline_block">
@@ -35,7 +37,8 @@
 <div style="display: inline_block">
     <img align="center" alt="html5" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="css3" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" alt="sql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
+    <img align="center" alt="sql" heigth="30" width="40" src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
     <img align="center" alt="java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" alt="java" heigth="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
 </div>
