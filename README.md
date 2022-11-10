@@ -26,7 +26,7 @@
 <div style="display: inline_block">
       <img align="center" alt="mysql" heigth="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
       <img align="center" alt="javaScript" heigth="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
-      <img align="center" alt="nodeJS" heigth="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor />
+      <img align="center" alt="nodeJS" heigth="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />
 </div>
 <br>
     
