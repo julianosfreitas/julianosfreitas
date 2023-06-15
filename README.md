@@ -25,8 +25,9 @@
     
 ### LEARNING 📒
 
-<div style="display: inline_block">  
-      <img align="center" alt="nodeJS" heigth="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />
+<div style="display: inline_block">
+    <img align="center" alt="python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" alt="nodeJS" heigth="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />
 </div>
 <br>
     
