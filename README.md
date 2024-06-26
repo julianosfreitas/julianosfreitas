@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7600a9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Juliano+Freitas+Here!;I'm+23+years+old;from+Recife,+PE;Studing+Computer+Science+at+Nova+Roma)](https://git.io/typing-svg)
 <br>
 
-### ON A MISSION 🏎️
+### ON A MISSION. 🏎️
 
 <div style="display: inline_block">
 <img src="https://github.com/julianosfreitas/projeto-git/blob/master/gifum.gif" aling="center" alt="Driver" width="24%"/>
@@ -13,7 +13,7 @@
 </div>
 <br>
 
-### STATS 📈  
+### STATS. 📈  
 
 <div>
     <a hef="https://github.com/julianosfreitas">
@@ -23,7 +23,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
     
-### LEARNING 📒
+### LEARNING. 📒
 
 <div style="display: inline_block">
     <img align="center" alt="javaScript" heigth="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
@@ -31,7 +31,7 @@
 </div>
 <br>
     
-### SKILLS 🔬
+### SKILLS. 🔬
     
 <div style="display: inline_block">
     <img align="center" alt="python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
