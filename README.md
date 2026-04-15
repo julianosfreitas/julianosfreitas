@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7600a9&height=120&section=header"/>
 
+https://capsule-render.vercel.app/api?type=blur&height=350&color=gradient=WHITE&text=Juliano%20Freitas,%20Here!&section=header&textBg=false&fontColor=BLACK&animation=fadeIn&fontAlign=50&reversal=true&fontSize=50
+
 ### LEARNING.  ✍🏽
 <div style="display: inline_block">
     <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
