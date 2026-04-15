@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7600a9&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=gradient&text=Juliano%20Freitas,%20Here!&section=header&textBg=false&fontColor=BLACK&animation=fadeIn&fontAlign=50&reversal=true&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=gradient&text=Juliano%20Freitas,%20Here!&section=header&textBg=false&fontColor=WHITE&animation=fadeIn&fontAlign=50&reversal=true&fontSize=50" />
 </p>
 
 ### LEARNING.  ✍🏽
