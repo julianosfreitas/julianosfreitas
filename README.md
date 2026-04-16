@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=0:00c6ff,100:0072ff&text=Juliano%20Freitas,%20Here!&section=header&textBg=false&fontColor=F0F0F0&animation=fadeIn&fontAlign=50&reversal=true&fontSize=30" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=500&color=0:00c6ff,100:0072ff&text=Juliano%20Freitas,%20Here!&section=header&textBg=false&fontColor=F0F0F0&animation=fadeIn&fontAlign=50&reversal=true&fontSize=30" width="100%" />
 </p>
 
 ![Sobre mim](https://img.shields.io/badge/Sobre_mim-1F2328?style=for-the-badge)
