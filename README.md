@@ -4,7 +4,7 @@
 
 ![Sobre mim](https://img.shields.io/badge/Sobre_mim-1F2328?style=for-the-badge)
 
-> *Sou um Tech Lead e Full-Stack Developer focado em arquitetura limpa e interfaces minimalistas. Com uma base sólida em Análise de Sistemas e pós-graduação em Big Data e IA, meu principal objetivo no dia a dia é conectar necessidades reais de negócios com as melhores práticas de engenharia de software.*
+> *Sou um Full-Stack Developer focado em arquitetura limpa e interfaces minimalistas. Com uma base sólida em Análise de Sistemas e pós-graduação em Big Data e IA, meu principal objetivo no dia a dia é conectar necessidades reais de negócios com as melhores práticas de engenharia de software.*
 
 <br />
 
