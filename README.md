@@ -1,43 +1,60 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7600a9&height=120&section=header"/>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=450&color=gradient=WHITE&text=Juliano%20Freitas,%20Here!&section=header&textBg=false&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&reversal=true&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=0:00c6ff,100:0072ff&text=Juliano%20Freitas,%20Here!&section=header&textBg=false&fontColor=F0F0F0&animation=fadeIn&fontAlign=50&reversal=true&fontSize=30" width="100%" />
 </p>
 
-### LEARNING.  ✍🏽
-<div style="display: inline_block">
-    <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img align="center" alt="mysql" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
+![Sobre mim](https://img.shields.io/badge/Sobre_mim-1F2328?style=for-the-badge)
+
+> *Sou um Tech Lead e Full-Stack Developer focado em arquitetura limpa e interfaces minimalistas. Com uma base sólida em Análise de Sistemas e pós-graduação em Big Data e IA, meu principal objetivo no dia a dia é conectar necessidades reais de negócios com as melhores práticas de engenharia de software.*
+
+<br />
+
+![O que estou construindo](https://img.shields.io/badge/O_que_estou_construindo-1F2328?style=for-the-badge)
+
+> *Meu foco atual está em traduzir regras de negócios complexas em sistemas escaláveis. Atualmente, lidero o desenvolvimento do **TuttorFiscal** (um sistema completo para gestão e análise de notas fiscais eletrônicas) e a implementação do zero de um WMS (Warehouse Management System) voltado para logística de estoques.*
+
+<br />
+
+![Stack Tecnológica](https://img.shields.io/badge/Stack_Tecnológica-1F2328?style=for-the-badge)
+
+> *Desenvolvo do banco de dados à interface, priorizando um ecossistema moderno e conteinerizado para garantir entregas rápidas e manuteníveis:*
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,php,js,react,mysql,nodejs,docker" />
+  </a>
 </div>
-<br>
 
-### SKILLS. 🔬
-<div style="display: inline_block">
-    <img align="center" alt="javascript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
-    <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img align="center" alt="mysql" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
-    <img align="center" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" alt="git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
+<br />
+
+> *Minha fluência principal transita entre o ecossistema JavaScript/TypeScript (Node, React) e bases robustas com PHP e MySQL.*
+
+<br />
+
+![Produtividade em Código](https://img.shields.io/badge/Produtividade_em_Código-1F2328?style=for-the-badge)
+
+
+<div align="center">
+  <a href="https://github.com/julianosfreitas">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianosfreitas&theme=github_dark&show_icons=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosfreitas&theme=github_dark&layout=compact&hide_border=true" />
+  </a>
 </div>
-<br>
 
-### SOCIAL MEDIA 📱
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/julianosfreitas)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-<br>
+<br />
 
-### STATS. 📈
-<div>
-    <a href="https://github.com/julianosfreitas">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=julianosfreitas&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"/>
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianosfreitas&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
+![Vamos conversar?](https://img.shields.io/badge/Vamos_conversar%3F-1F2328?style=for-the-badge)
+
+> *Seja para discutir oportunidades estratégicas, arquitetura de software ou inovação no ecossistema de desenvolvimento, fique à vontade para me mandar uma mensagem.*
+
+<div align="left">
+  <a href="mailto:julianof29contato@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/julianoftas/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 </div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-<br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7600a9&height=120&section=footer"/>
+<br />
+
+**📄 [Clique aqui para baixar o meu Currículo completo (PDF)](SEU_LINK_DO_CURRICULO_AQUI_PDF)**
