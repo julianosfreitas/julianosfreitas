@@ -4,13 +4,13 @@
 
 ![Sobre mim](https://img.shields.io/badge/Sobre_mim-1F2328?style=for-the-badge)
 
-> *Sou um Full-Stack Developer focado em arquitetura limpa e interfaces minimalistas. Com uma base sólida em Análise de Sistemas e pós-graduação em Big Data e IA, meu principal objetivo no dia a dia é conectar necessidades reais de negócios com as melhores práticas de engenharia de software.*
+> *Sou um Full-Stack Developer focado em arquitetura limpa e interfaces minimalistas. Com formação em Análise de Sistemas, Cursando Ciência da Computação e uma pós-graduação em Big Data e IA, meu principal objetivo no dia a dia é conectar necessidades reais de negócios com as melhores práticas de engenharia de software.*
 
 <br />
 
 ![O que estou construindo](https://img.shields.io/badge/O_que_estou_construindo-1F2328?style=for-the-badge)
 
-> *Meu foco atual está em traduzir regras de negócios complexas em sistemas escaláveis. Atualmente, lidero o desenvolvimento do **TutorFiscal** (um sistema completo para gestão e análise de notas fiscais eletrônicas) e a implementação do zero de um WMS (Warehouse Management System) voltado para logística de estoques.*
+> *Meu foco atual está em traduzir regras de negócios complexas em sistemas escaláveis. Atualmente, participo do time de desenvolvimento do **TutorFiscal** (um ERP Contábil) e a implementação do zero de um WMS (Warehouse Management System) voltado para logística de estoques na Romarri.*
 
 <br />
 
